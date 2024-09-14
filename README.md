@@ -20,6 +20,7 @@ Este documento tem como objetivo definir e detalhar os requisitos funcionais e n
 Link: [Requisitos](Requisitos.md)
 
 As histórias de usuários descritas neste documento têm como objetivo capturar as necessidades e expectativas dos usuários finais em relação ao sistema Scribble. Essas histórias orientam o desenvolvimento de funcionalidades de maneira incremental e centrada no usuário, ajudando a garantir que o produto final atenda aos requisitos práticos e facilite a experiência do usuário.  
+
 Link: [Histórias de Usuário](HistoriasDeUsuario.md)
 
 # Modelagem
