@@ -21,3 +21,6 @@ Este documento tem como objetivo definir e detalhar os requisitos funcionais e n
 As histórias de usuários descritas neste documento têm como objetivo capturar as necessidades e expectativas dos usuários finais em relação ao sistema Scribble. Essas histórias orientam o desenvolvimento de funcionalidades de maneira incremental e centrada no usuário, ajudando a garantir que o produto final atenda aos requisitos práticos e facilite a experiência do usuário.  
 [Histórias de Usuário](HistoriasDeUsuario.md)
 
+# Modelagem
+
+A modelagem de classes define a estrutura estática, detalhando entidades como diagramas e elementos gráficos, suas propriedades e interações. Já a modelagem de atividades representa o fluxo dinâmico do sistema, descrevendo as etapas e processos envolvidos na criação, edição e salvamento de diagramas Molic. Juntas, essas modelagens oferecem uma visão completa dos processos do Scribble, garantindo um planejamento e implementação eficazes.
