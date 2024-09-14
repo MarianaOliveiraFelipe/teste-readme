@@ -15,8 +15,9 @@ Durante a fase de elicitação de requisitos, foram conduzidas entrevistas semie
 
 ## Documentação
 
-Este documento tem como objetivo definir e detalhar os requisitos funcionais e não funcionais do sistema Scribble. Ele serve como uma referência centralizada para descrever as funcionalidades, restrições e comportamentos esperados, garantindo que o sistema atenda às necessidades dos usuários e cumpra as especificações técnicas.
+Este documento tem como objetivo definir e detalhar os requisitos funcionais e não funcionais do sistema Scribble. Ele serve como uma referência centralizada para descrever as funcionalidades, restrições e comportamentos esperados, garantindo que o sistema atenda às necessidades dos usuários e cumpra as especificações técnicas.  
 [Requisitos](Requisitos.md)
 
-As histórias de usuários descritas neste documento têm como objetivo capturar as necessidades e expectativas dos usuários finais em relação ao sistema Scribble. Essas histórias orientam o desenvolvimento de funcionalidades de maneira incremental e centrada no usuário, ajudando a garantir que o produto final atenda aos requisitos práticos e facilite a experiência do usuário.
+As histórias de usuários descritas neste documento têm como objetivo capturar as necessidades e expectativas dos usuários finais em relação ao sistema Scribble. Essas histórias orientam o desenvolvimento de funcionalidades de maneira incremental e centrada no usuário, ajudando a garantir que o produto final atenda aos requisitos práticos e facilite a experiência do usuário.  
 [Histórias de Usuário](HistoriasDeUsuario.md)
+
