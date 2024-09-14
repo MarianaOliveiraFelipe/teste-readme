@@ -13,8 +13,6 @@ Durante a fase de elicitação de requisitos, foram conduzidas entrevistas semie
 
 # Requisitos e Histórias de Usuário
 
-## Documentação
-
 Este documento tem como objetivo definir e detalhar os requisitos funcionais e não funcionais do sistema Scribble. Ele serve como uma referência centralizada para descrever as funcionalidades, restrições e comportamentos esperados, garantindo que o sistema atenda às necessidades dos usuários e cumpra as especificações técnicas.  
 
 Link: [Requisitos](Requisitos.md)
@@ -28,3 +26,5 @@ Link: [Histórias de Usuário](HistoriasDeUsuario.md)
 A modelagem de classes define a estrutura estática, detalhando entidades como diagramas e elementos gráficos, suas propriedades e interações. Já a modelagem de atividades representa o fluxo dinâmico do sistema, descrevendo as etapas e processos envolvidos na criação, edição e salvamento de diagramas Molic. Juntas, essas modelagens oferecem uma visão completa dos processos do Scribble, garantindo um planejamento e implementação eficazes.
 
 Link: [Modelagem](Modelagem.md)
+
+# Arquitetura
