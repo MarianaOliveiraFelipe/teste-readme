@@ -12,6 +12,9 @@ Nossa principal cliente é a professora Ingrid Monteiro, do campus de Quixadá d
 Durante a fase de elicitação de requisitos, foram conduzidas entrevistas semiestruturadas com nossa principal cliente. Durante o processo de desenvolvimento, foram realizadas reuniões com o intuito de receber feedbacks e sugestões de melhoria.
 
 # Requisitos e Histórias de Usuário
+
+Este documento tem como objetivo definir e detalhar os requisitos funcionais e não funcionais do sistema Scribble. Ele serve como uma referência centralizada para descrever as funcionalidades, restrições e comportamentos esperados, garantindo que o sistema atenda às necessidades dos usuários e cumpra as especificações técnicas.
+
 ## Documentação
 
 [Documentação](https://link-da-documentação)
