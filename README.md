@@ -35,3 +35,5 @@ Link: [Modelagem](Modelagem.md)
 ## Testes Unitários
 
 ## Testes Sistémicos
+
+Link: [Testes Manuais](https://docs.google.com/spreadsheets/d/19H1wCPnC2xXhk8pEj9W9kB_1EBQ89W3a/edit?gid=173414780#gid=173414780)
