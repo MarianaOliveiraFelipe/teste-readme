@@ -18,3 +18,4 @@ Este documento tem como objetivo definir e detalhar os requisitos funcionais e n
 ## Documentação
 
 [Requisitos](Requisitos.md)
+[Histórias de Usuário](HistoriasDeUsuario.md)
