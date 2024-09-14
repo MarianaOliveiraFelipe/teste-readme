@@ -28,3 +28,11 @@ A modelagem de classes define a estrutura estática, detalhando entidades como d
 Link: [Modelagem](Modelagem.md)
 
 # Arquitetura
+
+
+
+# Testes
+
+## Testes Unitários
+
+## Testes Sistémicos
